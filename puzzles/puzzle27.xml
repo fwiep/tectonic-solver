@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Puzzles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="TectonicPuzzles.xsd">
+
+  <Puzzle height="5" width="9" source="Denksport Tectonic 5-7 #46 blz.4 #7">
+
+    <Cell PieceNumber="1" Value="1" />
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="1" Value="5" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="3" Value="4" />
+
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="5" Value="" />
+
+    <Cell PieceNumber="4" Value="3" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="6" Value="" />
+    <Cell PieceNumber="6" Value="" />
+    <Cell PieceNumber="7" Value="" />
+    <Cell PieceNumber="7" Value="" />
+    <Cell PieceNumber="7" Value="" />
+    <Cell PieceNumber="5" Value="5" />
+    <Cell PieceNumber="5" Value="" />
+
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="8" Value="" />
+    <Cell PieceNumber="8" Value="3" />
+    <Cell PieceNumber="6" Value="" />
+    <Cell PieceNumber="6" Value="4" />
+    <Cell PieceNumber="7" Value="" />
+    <Cell PieceNumber="7" Value="" />
+    <Cell PieceNumber="9" Value="" />
+    <Cell PieceNumber="5" Value="" />
+
+    <Cell PieceNumber="8" Value="2" />
+    <Cell PieceNumber="8" Value="" />
+    <Cell PieceNumber="8" Value="" />
+    <Cell PieceNumber="10" Value="" />
+    <Cell PieceNumber="6" Value="" />
+    <Cell PieceNumber="11" Value="" />
+    <Cell PieceNumber="9" Value="" />
+    <Cell PieceNumber="9" Value="" />
+    <Cell PieceNumber="9" Value="" />
+        
+  </Puzzle>
+
+</Puzzles>

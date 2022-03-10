@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Puzzles" type="PuzzlesType" />
+
+  <xs:complexType name="PuzzlesType">
+    <xs:sequence minOccurs="1" maxOccurs="1">
+      <xs:element name="Puzzle" type="PuzzleType" />
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="PuzzleType">
+    <xs:sequence minOccurs="1" maxOccurs="unbounded">
+      <xs:element name="Cell" type="CellType" />
+    </xs:sequence>
+
+    <xs:attribute name="width" type="xs:nonNegativeInteger"
+      use="required" />
+    <xs:attribute name="height"
+      type="xs:nonNegativeInteger" use="required" />
+    <xs:attribute name="source" type="NonEmptyString" />
+  </xs:complexType>
+
+  <xs:complexType name="CellType">
+    <xs:attribute name="PieceNumber"
+      type="xs:nonNegativeInteger" use="optional" default="1" />
+    <xs:attribute name="Value" type="EmptyValue" use="optional" default="" />
+    <xs:attribute name="Options" type="NonEmptyOptions" use="optional" />
+  </xs:complexType>
+
+  <xs:simpleType name="EmptyValue">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[1-5]?" />
+    </xs:restriction>
+  </xs:simpleType>
+  
+  <xs:simpleType name="NonEmptyOptions">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="1?2?3?4?5?" />
+    <xs:minLength value="1" />
+  </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="NonEmptyString">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1" />
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>

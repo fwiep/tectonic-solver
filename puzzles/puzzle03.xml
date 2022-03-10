@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Puzzles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="TectonicPuzzles.xsd">
+
+  <Puzzle height="6" width="4" source="http://www.innoludic.com/2015-04-30-13-56-29/rules-of-suguru/11-en/news/382-technic-1-election.html">
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="1" Value="2" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="1" />
+    <Cell PieceNumber="1" Value="3" />
+    <Cell PieceNumber="3" Value="4" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="2" Value="2" />
+    <Cell PieceNumber="4" Value="3" />
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="6" Value="" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="5" Value="2" />
+    <Cell PieceNumber="5" Value="3" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="4" Value="5" />
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="5" Value="" />
+  </Puzzle>
+
+</Puzzles>

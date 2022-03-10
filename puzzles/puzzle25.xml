@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Puzzles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="TectonicPuzzles.xsd">
+
+  <Puzzle height="5" width="4" source="Denksport Tectonic 5-7 #33 blz.59 #147">
+
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="1" Value="3" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="5" />
+
+    <Cell PieceNumber="1" Value="2" />
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="2" Value="" />
+
+    <Cell PieceNumber="3" Value="" />
+    <Cell PieceNumber="1" Value="" />
+    <Cell PieceNumber="2" Value="" />
+    <Cell PieceNumber="4" Value="" />
+    
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="4" Value="" />
+    <Cell PieceNumber="4" Value="5" />
+    
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="5" Value="" />
+    <Cell PieceNumber="4" Value="2" />
+    <Cell PieceNumber="4" Value="" />
+        
+  </Puzzle>
+
+</Puzzles>

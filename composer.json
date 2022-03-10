@@ -1,0 +1,20 @@
+{
+    "name": "fwiep/tectonic",
+    "description": "PHP webapplication for solving most Tectonic (Suguru) puzzles and showing how this is done",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://www.fwiep.nl/tectonic",
+    "authors": [
+        {
+            "name": "Frans-Willem Post",
+            "email": "fwiep@fwiep.nl",
+            "homepage": "https://www.fwiep.nl/",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FWieP\\Tectonic\\": "src"
+        }
+    }
+}
